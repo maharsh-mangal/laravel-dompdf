@@ -57,5 +57,11 @@
         "allow-plugins": {
             "phpro/grumphp": true
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/maharsh-mangal/laravel-dompdf"
+        }
+    ]
 }
